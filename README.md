@@ -1,4 +1,4 @@
-  Bu proje ekşi sözlük benzeri kullanıcıların başlık oluşturup yazı yazabildiği kullanıcılar ile mesajlaşabildiği bir proje.N katmanlı mimarı yapısı kullanılarak yaptığım bu projeyi Entity Framework'ün Code-First yapısıyla dizayn ettim.Business Layer , Entity Layer , Data Access Layer ve Presentation Layer olarak 4 katmandan oluşmakta. Veri tabanı olarak Mssql kullandım. Projede admin ve lullanıcılar için ayrı iki login sayfası var. Admin  oluşturulan başlıklar ve yazılar üzerinde değişiklik yapabiliyor.
+  Bu proje ekşi sözlük benzeri kullanıcıların başlık oluşturup yazı yazabildiği kullanıcılar ile mesajlaşabildiği bir proje.N katmanlı mimarı yapısı kullanılarak yaptığım bu projeyi Entity Framework'ün Code-First yapısıyla dizayn ettim.Business Layer , Entity Layer , Data Access Layer ve Presentation Layer olarak 4 katmandan oluşmakta. Veri tabanı olarak Mssql kullandım. Projede admin ve kullanıcılar için ayrı iki login sayfası var. Admin  oluşturulan başlıklar ve yazılar üzerinde değişiklik yapabiliyor.
 
 # PROJEDEN GÖRSELLER
 
